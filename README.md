@@ -1,7 +1,6 @@
 # Data Structure Visualizer
 
 <div align="center">
-  <img src="docs/screenshots/logo.png" alt="Data Structure Visualizer Logo" width="128">
   
   An interactive educational tool for visualizing data structures and algorithms.
   
