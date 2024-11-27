@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <!-- Background circle -->
+    <circle cx="32" cy="32" r="30" fill="#4CAF50" />
+    
+    <!-- Stack representation (3 rectangles) -->
+    <rect x="20" y="20" width="24" height="6" fill="white" rx="1" />
+    <rect x="20" y="28" width="24" height="6" fill="white" rx="1" />
+    <rect x="20" y="36" width="24" height="6" fill="white" rx="1" />
+    
+    <!-- Queue arrow -->
+    <path d="M 15,15 L 49,15 L 45,11 M 49,15 L 45,19" 
+          stroke="white" 
+          stroke-width="2" 
+          fill="none" />
+</svg>
